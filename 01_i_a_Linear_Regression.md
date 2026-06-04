@@ -17,20 +17,10 @@
 
 ## Pictorial Representation
 
-Suppose we have:
-
-| Experience (Years) | Salary (LPA) |
-|-------------------|--------------|
-| 1 | 3 |
-| 2 | 4 |
-| 3 | 6 |
-| 4 | 8 |
-| 5 | 10 |
-
 ```text
 Salary
- ^
- |
+  ^
+  |
 10|                           *
   |
   |
