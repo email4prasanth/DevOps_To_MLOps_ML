@@ -123,9 +123,13 @@ $$
 
 Where:
 
-- \(y_i\) = Actual value
-- \(\hat{y}_i\) = Predicted value
-- \(n\) = Number of samples
+Where:
+
+- y<sub>i</sub> = Actual value
+- ŷ<sub>i</sub> = Predicted value
+- n = Number of samples
+
+Lower MSE indicates better model performance.
 
 Lower MSE indicates better model performance.
 
