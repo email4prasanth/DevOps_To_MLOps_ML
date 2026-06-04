@@ -1,0 +1,11 @@
+- Def: Machine Learning is process of building algorithm based on the historical data either by man made or natural.
+```sh
+Collect data --> Train a model --> Create a predictive model --> Make predictions
+```
+- Types of Machine Learning:
+| Type                   | Data         | Goal                 | Algorithms               |
+| ---------------------- | ------------ | -------------------- | ---------------------- |
+| Supervised Learning    | Labeled      | Predict output       | Linear Regression, Logistic Regression, Decision Tree, Random Forest |
+| Unsupervised Learning  | Unlabeled    | Find patterns/groups | K-Means Clustering, Hierarchical Clustering  |
+| Reinforcement Learning | Reward-based | Learn best actions   | Q-Learning, Deep learning, RVI Q-learning       |
+
