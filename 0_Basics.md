@@ -26,3 +26,4 @@ Collect Data → Train Model → Create Predictive Model → Make Predictions
 | Unsupervised Learning  | Unlabeled Data | Find Patterns/Groups | K-Means Clustering, Hierarchical Clustering |
 | Reinforcement Learning | Reward-Based | Learn Best Actions   | Q-Learning, Deep Q-Network (DQN), RVI Q-Learning |
 
+i want the above in markdown language
